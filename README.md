@@ -1,7 +1,7 @@
 # MagSearch
 With MagSearch one can search for an article within a magazine series such as MagPi, HackSpace, Elektor etc. by means of keywords.
-MagSearch creates a database of keywords for each magazine series (magpi.db, hackspace.db) by scanning the textual content
-of the PDF files. The creation of these databases is currently only possible on Linux systems. MagSearch was developped
+MagSearch creates a database of keywords (>=2 chars) for each magazine series (magpi.db, hackspace.db) by scanning the textual content
+of the PDF files. The creation of these databases is currently only possible on Linux systems. MagSearch was developed
 for the Raspberry Pi system.  
 
 By entering one or more keywords, the database is scanned for pages containing these keywords. MagSearch
