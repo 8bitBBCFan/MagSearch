@@ -21,14 +21,13 @@ This format is specified in the configuration file 'config.yml'.
 Installation requirements:
   - Python modules: PyPDF2, PyYaml, keyboard (this one should be installed as root with 'sudo pip3 install keyboard')
   - PDF viewer 'evince' has to be installed via 'Preferences -> Add/Remove Software - evince')
+  - Command line application 'pdftotext' (based on Poppler) via 'Preferences -> Add/Remove Software - pdftotext')
   - Create a directory '/home/pi/MagSearch' and copy the contents of the folder MagSearch in the .zip file into this directory
   - Place downloaded magazines in the corresponding subfolder 'MagPi' or 'HackSpace'. This is necessary to be able to open a
     magazine at a specific page or to add a new magazine to the database.
     NOTE: the magazines are NOT part of this distribution and have to be downloaded by the user itself.
-  - Open the command line in '/home/pi/MagSearch' and run 'python3 mag_gui.py'
+  - Open the command line in '/home/pi/MagSearch' and run 'python3 mag_gui.py' or ./mag_gui.py (possibly first 'chmod +x mag_gui.py')
 
-
-References:
+Acknowledgements:
 Part of the English stopword list and the functions 'remove_stopwords' and 'freqdict' are taken from the website
   'https://programminghistorian.org/en/lessons/counting-frequencies'. This website was the inspiration to continue this application.
-  
