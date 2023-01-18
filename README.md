@@ -26,3 +26,8 @@ Installation requirements:
     magazine at a specific page or to add a new magazine to the database.
     NOTE: the magazines are NOT part of this distribution and have to be downloaded by the user itself.
   - Open the command line in '/home/pi/MagSearch' and run 'python3 mag_gui.py'
+
+  References:
+  Part of the English stopword list and the functions 'remove_stopwords' and 'freqdict' are taken from the website
+  'https://programminghistorian.org/en/lessons/counting-frequencies'. This website was the inspiration to continue this application.
+  
