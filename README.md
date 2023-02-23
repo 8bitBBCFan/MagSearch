@@ -14,7 +14,7 @@ Quick use:
   Press control+B (or middle mouse button) to obtain the best page sequence per magazine (currently only 1 per magazine).
 - The menu 'Help -> Manual' will give more information.
 
-The database for MagPi contains currently 126 magazines and for HackSpace 64 magazines. New magazines can be added to
+The database for MagPi contains currently 127 magazines and for HackSpace 64 magazines. New magazines can be added to
 the database. The name of a magazine has a strict format such as 'MagPi' followed by a number (e.g. 'MagPi123', 'HackSpace52').
 This format is specified in the configuration file 'config.yml'.
 
