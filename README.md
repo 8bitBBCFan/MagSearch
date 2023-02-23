@@ -9,12 +9,12 @@ detects whether pages in a magazine are sequential which most likely points to a
 these articles based on the number of detected pages.
 
 Quick use:
-- Enter one or more keywords in the 'Search' field and press <Enter> (or click the right mouse button).
+- Enter one or more keywords in the 'Search' field and press 'Enter' (or click the right mouse button).
   A result is displayed: Magazine number : page [occurrence on page], ... .
   Press control+B (or middle mouse button) to obtain the best page sequence per magazine (currently only 1 per magazine).
 - The menu 'Help -> Manual' will give more information.
 
-The database for MagPi contains currently 125 magazines and for HackSpace 62 magazines. New magazines can be added to
+The database for MagPi contains currently 126 magazines and for HackSpace 64 magazines. New magazines can be added to
 the database. The name of a magazine has a strict format such as 'MagPi' followed by a number (e.g. 'MagPi123', 'HackSpace52').
 This format is specified in the configuration file 'config.yml'.
 
