@@ -23,7 +23,7 @@ Installation requirements:
   - PDF viewer 'evince' has to be installed via 'Preferences -> Add/Remove Software - evince' or 'sudo apt-get install evince'.
   - Command line application 'pdftotext' (based on Poppler) via 'Preferences -> Add/Remove Software - pdftotext') or 'sudo apt-get
     install pdftotext'.
-  - Create a directory '/home/pi/MagSearch' and copy the contents of the folder MagSearch in the .zip file into this directory.
+  - Create a directory '/home/pi/MagSearch' and copy the contents of the folder MagSearch in the .zip file into this directory. Note that if you 'git clone' the project, the code is in /home/pi/MagSearch/MagSearch. Check in the config.yml file whether the paths to the magazines is correct!
   - Place downloaded magazines in the corresponding subfolder 'MagPi' or 'HackSpace'. This is necessary to be able to open a
     magazine at a specific page or to add a new magazine to the database.
     NOTE: the magazines are NOT part of this distribution and have to be downloaded by the user itself.
