@@ -10,13 +10,13 @@ magazines:
     descr: MagPi magazine
     filename: MagPi
     language: EN
-    directory: /home/pi/MagSearch/MagSearch/MagPi/
+    directory: /home/pi/MagSearch/MagPi/
     database: magpi.db
   hackspace:
     descr: HackSpace magazine
     filename: HackSpace
     language: EN
-    directory: /home/pi/MagSearch/MagSearch/HackSpace/
+    directory: /home/pi/MagSearch/HackSpace/
     database: hackspace.db
 
 # Default mode of matching search terms to keys. Options are:
