@@ -38,7 +38,6 @@ if os.name == 'posix': PLATFORM = 'Linux'
 if PLATFORM == 'Windows':
     import subprocess
     
-    nasPath =  'D:\\HOBBY'
     buttonWidth = 6
     winWidth    = 850
     winHeight   = 415
@@ -52,7 +51,6 @@ if PLATFORM == 'Windows':
     pdftotext_enable = False
     
 elif PLATFORM == 'Linux':
-    nasPath = r'/home/pi/nas/HOBBY'
     buttonWidth = 6
     guiFont     = ("PibotoLt", 12)
     txtFont     = ("Courier", 9)
@@ -63,10 +61,13 @@ elif PLATFORM == 'Linux':
     config_file = 'config.yml'
     
     pdftotext_enable = True
+    
+else:
+    raise Exception('Platform \'{}\' is not supported'.format(os.name))
 
 # Read command line parameters: ./mag_gui.py [config .yml file]
 npars = len(sys.argv)
-if npars == 2:
+if npars >= 2:
     config_file = sys.argv[1]
 
 se = ScanMag(config_file)
@@ -331,7 +332,7 @@ class MyApp:
         lb2 = tk.Label(fr, text=PROGNAM, font=guiFont + ('bold',), bg=bg)
         lb3 = tk.Label(fr, text=VERSION[1:], font=guiFont, bg=bg)
         lb4 = tk.Label(fr, text='Search for keywords in a magazine', font=guiFont, bg=bg)
-        lb5 = tk.Label(fr, text='Copyright('+u'\u00A9'+') 2022 Hans van Zon', font=guiFont, bg=bg)
+        lb5 = tk.Label(fr, text='Copyright('+u'\u00A9'+') 2022-2023 Hans van Zon', font=guiFont, bg=bg)
         
         lb1.place(relx=0.5, rely=0.25, anchor=tk.CENTER)
         lb2.place(relx=0.5, rely=0.58, anchor=tk.CENTER)
