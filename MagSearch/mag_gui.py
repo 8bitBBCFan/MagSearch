@@ -64,6 +64,11 @@ elif PLATFORM == 'Linux':
     
     pdftotext_enable = True
 
+# Read command line parameters: ./mag_gui.py [config .yml file]
+npars = len(sys.argv)
+if npars == 2:
+    config_file = sys.argv[1]
+
 se = ScanMag(config_file)
 
 def best_article(lst, max_spacing=2):
