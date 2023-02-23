@@ -23,11 +23,11 @@ Installation requirements:
   - PDF viewer 'evince' has to be installed via 'Preferences -> Add/Remove Software - evince' or 'sudo apt-get install evince'.
   - Command line application 'pdftotext' (based on Poppler) via 'Preferences -> Add/Remove Software - pdftotext') or 'sudo apt-get
     install pdftotext'.
-  - Create a directory '/home/pi/MagSearch' and copy the contents of the folder MagSearch in the .zip file into this directory.
+  - Create a directory '/home/pi/MagSearch' and copy the contents of the folder MagSearch in the .zip file into this directory. Note that if you 'git clone' the project, the code is in '/home/pi/MagSearch/MagSearch'. Check in the 'config.yml' file whether the paths to the magazines are correct (i.e. '/home/pi/MagSearch' or '/home/pi/MagSearch/MagSearch')!
   - Place downloaded magazines in the corresponding subfolder 'MagPi' or 'HackSpace'. This is necessary to be able to open a
-    magazine at a specific page or to add a new magazine to the database.
+    magazine at a specific page or to add a new magazine to the database. See the previous remark for the correct paths.
     NOTE: the magazines are NOT part of this distribution and have to be downloaded by the user itself.
-  - Open the command line in '/home/pi/MagSearch' and run 'python3 mag_gui.py' or ./mag_gui.py (possibly first 'chmod +x mag_gui.py').
+  - Open the command line in '/home/pi/MagSearch' (or '/home/pi/MagSearch/MagSearch') and run 'python3 mag_gui.py' or ./mag_gui.py (possibly first 'chmod +x mag_gui.py').
 
 Acknowledgements
 Part of the English stopword list and the functions 'remove_stopwords' and 'freqdict' are taken from the website
