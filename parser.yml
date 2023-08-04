@@ -72,7 +72,7 @@ stopwords:
     zou, zouden, zoveel, zowel, zozeer, zulke, zullen
 
 except_1_2char:
-  c, 2d, 3d, a6, a8, ai, ir, os, pi, sd, tk, qt, hz
+  c, 2d, 3d, a6, a8, ai, ir, os, pc, pi, sd, tk, qt, hz
 
 except_3char:
-  arm, bbc, bit, cpp, cpu, gps, gtk, gui, i2c, led, rgb,ssh
+  arm, bbc, bit, cpp, cpu, gps, gtk, gui, i2c, led, rgb, ssh
