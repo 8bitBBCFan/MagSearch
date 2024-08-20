@@ -1,10 +1,36 @@
-Volle kracht vooruit
+PiKVM
+PiKVM V4 Mini
 
-Vertrouw op de nieuwe productintroductieleider™
-om razendsnel van concept naar prototype te gaan
+Small, cost-effective, and powerful!
+Power consumption in idle mode: just 2.67 Watts!
+Transfer your mouse and keyboard actions
+Access to all conﬁguration settings like UEFI/BIOS
+Capture video signal up to 1920x1200@60 Hz
+Take full control of a remote PC’s power
 
-nl.mouser.com/new
+PiKVM V4 Plus
 
-116 mei/juni 2024 www.elektormagazine.nl
+The most feature-rich edition
+More connectivity
+Extra storage via internal USB 3.0
+Upgraded powering options
+More physical security features
+
+Extra HDMI output
+
+Advanced cooling solution
+
+A cost-effective solution for data-centers,
+IT departments or remote machines!
+Availableatatthe
+themain
+mainRaspberry
+Raspberry Pi resellers
+Available
+resellers
+
+Manage your
+servers or PCs
+remotely!
 
 
