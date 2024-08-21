@@ -18,6 +18,12 @@ magazines:
     language: EN
     directory: /home/pi/MagSearch/HackSpace/
     database: hackspace.db
+  elektor:
+    descr: Elektor magazine
+    filename: Elektor
+    language: NL
+    directory: /home/pi/MagSearch/Elektor/
+    database: elektor.db
 
 # Default mode of matching search terms to keys. Options are:
 #   --any   : any position of the search term in the key word
