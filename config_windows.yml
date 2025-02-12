@@ -35,7 +35,7 @@ magazines:
     filename: Elektor
     language: NL
     directory: D:/HOBBY/Magazines/Elektor/
-    database: D:/Hans/Projects/MagSearch/elektor.db
+    database: elektor.db
 
 # Default mode of matching search terms to keys. Options are:
 #   --any   : any position of the search term in the key word
