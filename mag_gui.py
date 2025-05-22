@@ -10,7 +10,7 @@
 # sudo pip3 install keyboard. keyboard module must be run under root
 # PI: Preferences -> Add/Remove Software -> evince
 
-import sys, os, os.path
+import sys, os, os.path, mypc
 # sys.path.append('/home/pi/Python/lib')
 from mag_class import ScanMag
 
@@ -26,13 +26,10 @@ import keyboard
 # result = messagebox.askokcancel('Title', 'Message')
 
 # Program name and version
+PLATFORM = mypc.os
 PROGNAM = "MagSearch"
 VERSION = 'v0.9.5'
 
-# Platform
-PLATFORM = None
-if os.name == 'nt': PLATFORM = 'Windows'
-if os.name == 'posix': PLATFORM = 'Linux'
 # print(os.path.dirname(sys.executable))
 
 if PLATFORM == 'Windows':
