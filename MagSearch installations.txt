@@ -1,0 +1,23 @@
+Installaties MagSearch
+
+!!! Gebruik /home/pi/MagSearch voor GIT !!!
+
+Windows
+D:\Hans\MagSearch met config_windows.yml configuratie
+De magazines worden uit D:/HOBBY/Magazines gehaald
+De databases staan in D:\Hans\MagSearch
+
+Er zijn 2 lokaties waar de databases op GitHub staan:
+- 8bitBBCFan/MagSearch           -> home/pi/MagSearch
+- 8bitBBCFan/Projects/MagSearch  -> home/pi/Projects/MagSearch !!! NOT USED ANYMORE
+
+De applicatie op de Raspberry Pi draait in /home/pi/MagSearch met /home/pi/Projects/MagSearch/config.yml
+Gebruik dus GIT op /home/pi/MagSearch
+
+Updating the databases
+======================
+Always do the updating of the databases on Linux
+Start MagSearch on Linux and update the databases of MagPi and Elektor
+Go to directory /home/pi/MagSearch, git status, git add -A, git commit -am "Updated database <datum>", git push
+
+On Windows, go to D:\Hans\MagSearch, git pull
