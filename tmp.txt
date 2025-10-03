@@ -1,30 +1,56 @@
-Word lid van de
-Elektor C mmunity
-Neem nu een
+Figuur 3: “Impliciet”
+authenticatieschema.
 
-Ge mOb eLr s hDi p
-m
+10. Lage gebruikskosten
+Een SMS ontvangen is doorgaans gratis, en het verzenden
+kost meestal tussen de € 0,05 en € 0,10 per bericht. Aangezien het eindapparaat SMS’en enkel verzendt bij een gebeurtenis of op verzoek, blijft het dataverkeer — en dus de kostprijs
+— laag. Bovendien zorgt de EU-roamingverordening ervoor
+dat gebruikers hun mobiele telefoon binnen de EU kunnen
+gebruiken tegen hetzelfde tarief als in hun thuisland, zonder
+extra roamingkosten. Dit is bijzonder interessant voor grensoverschrijdende toepassingen, zoals het lokaliseren van een
+gestolen object of slimme logistiek.
 
-lidmaatschap!
+Deel uitmaken van het IoT-succesverhaal
 
-Toegang tot het compleet web-archief t/m 1960!
-8x Elektor Magazine (Print)
-8x digitaal (PDF)
-10% korting in de Elektor Store, en exclusieve aanbiedingen
-Toegang tot meer dan 5000 Gerberfiles
+Over de Auteur
 
-Ook verkrijgbaar
+Kersten Heins is werkzaam als onderzoeksmedewerker aan de
+International University of Applied Sciences en als gepassioneerd
+ontwerper van veilige, cellulair verbonden IoT-subsystemen. Na zijn
+afstuderen in München (Duitsland) werkte hij 30 jaar in de industriële automatisering, halfgeleider- en smartcardsector in diverse
+technische en marketingfuncties.
 
-Het digitale G R E E N
-lidmaatschap!
-membership
+Het staat buiten kijf dat het Internet of Things ook in de toekomst
+alledaagse toepassingen zal blijven omvormen tot geautomatiseerde
+en op afstand bestuurbare systemen. Voor veel van deze toepassingen vormt een SMS-gebaseerd systeem echter een technisch
+efficiënt alternatief. In dat opzicht zou SMS wel eens een “tweede
+jeugd” kunnen beleven en opnieuw een belangrijke rol kunnen
+spelen in het succesverhaal van het IoT.
 
-Toegang tot het compleet web-archief
-10% korting in de Elektor Store
-8x Elektor Magazine (PDF)
-Toegang tot meer dan 5000 Gerberfiles
+Gerelateerde Producten
 
-www.elektormagazine.nl/abo
-116 mei/juni 2025 www.elektormagazine.nl
+240719-03
+
+Vragen of opmerkingen?
+
+Heb je technische vragen of opmerkingen over dit artikel? Stuur
+dan een e-mail naar de auteur via kersten.heins@mail.de of neem
+contact op met Elektor via redaktie@elektor.nl.
+
+>
+
+Makerfabs 4G LTE Hat for Raspberry Pi
+www.elektor.nl/20182
+
+>
+
+Dogan and Ahmet Ibrahim, GSM/GPRS Projects
+(Elektor E-book)
+www.elektor.nl/18203
+
+WEBLINK
+[1] GSM-technische specificatie, ETSI: https://www.etsi.org/deliver/etsi_gts/03/0340/05.03.00_60/gsmts_0340v050300p.pdf
+
+26 Bonus editie september/oktober 2025 www.elektormagazine.nl
 
 
