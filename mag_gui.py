@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3/home/hans/HOBBY/Magazines
 # -*- coding: utf-8 -*-
 # chmod 755 prog.py to set execution
 
@@ -49,7 +49,7 @@ if PLATFORM == 'Windows':
     
 elif PLATFORM == 'Linux':
     buttonWidth = 6
-    guiFont     = ("PibotoLt", 12)
+    guiFont     = ("PibotoLt", 11)
     txtFont     = ("Courier", 9)
     txt2Font    = ("PibotoLt", 11)
     winWidth    = 650
@@ -520,7 +520,9 @@ class MyApp:
             self.SetStatus(s)
         else:
             if PLATFORM == 'Linux':
-                s = 'evince -i ' + str(page) + ' "'+ file +'" 2>/dev/null &'
+                print(file)
+                # s = 'evince -i ' + str(page) + ' "'+ file +'" 2>/dev/null &'
+                s = 'qpdfview ' + '"'+ file + '#' + str(page) + '" 2>/dev/null &'
                 os.system(s)
             else:
                 s = 'C:/Program Files/Adobe/Acrobat DC/Acrobat/Acrobat.exe ' # Windows 10
