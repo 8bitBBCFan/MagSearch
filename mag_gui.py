@@ -50,10 +50,10 @@ if PLATFORM == 'Windows':
 elif PLATFORM == 'Linux':
     buttonWidth = 6
     guiFont     = ("PibotoLt", 11)
-    txtFont     = ("Courier", 9)
-    txt2Font    = ("PibotoLt", 11)
-    winWidth    = 650
-    winHeight   = 330
+    txtFont     = ("Courier ", 9) # was Courier, 9
+    txt2Font    = ("PibotoLt", 11) # was 11
+    winWidth    = 680 # was 650
+    winHeight   = 400 # was 330
     statusFont  = ("PibotoLt", 10)
     config_file = 'config.yml'
     
@@ -91,7 +91,7 @@ class DatabaseMaintenance:
     def __init__(self, parent):
         self.top = tk.Toplevel(parent, bg='#ededed')
         self.top.title('Database')
-        self.top.geometry('%dx%d+%d+%d' % (230, 140 , myapp.root.winfo_x()+350, myapp.root.winfo_y()+60))
+        self.top.geometry('%dx%d+%d+%d' % (230, 150 , myapp.root.winfo_x()+350, myapp.root.winfo_y()+60))
 
         # GUI style
         bg = '#ededed'
@@ -285,7 +285,7 @@ class MyApp:
         self.match()
         
         # color definitions for text window
-        fntnam, sz = 'DejaVu Sans Mono', 9
+        fntnam, sz = 'DejaVu Sans Mono', 10 # was 9
         self.txt.tag_config('blue', foreground='blue', font=(fntnam, sz))
         self.txt.tag_config('black', foreground='black', font=(fntnam, sz))
         self.txt.tag_config('red', foreground='red', font=(fntnam, sz))
