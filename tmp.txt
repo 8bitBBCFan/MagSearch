@@ -1,36 +1,74 @@
-PiKVM
-PiKVM V4 Mini
+Hans Zon - 164417
 
-Small, cost-effective, and powerful!
-Power consumption in idle mode: just 2.67 Watts!
-Transfer your mouse and keyboard actions
-Access to all conﬁguration settings like UEFI/BIOS
-Capture video signal up to 1920x1200@60 Hz
-Take full control of a remote PC’s power
+WoTS ’26
 
-PiKVM V4 Plus
+“De snelheid van AIontwikkelingen zal alleen
+maar verder toenemen”
+Een bijdrage van FHI
 
-The most feature-rich edition
-More connectivity
-Extra storage via internal USB 3.0
-Upgraded powering options
-More physical security features
+Dat kunstmatige intelligentie razendsnel
+terrein wint, staat vast. Maar wat die
+ontwikkeling écht betekent voor ons
+werk en onze creativiteit wordt nog te
+vaak onderschat, stelt AI‑expert Jarno
+Duursma.
 
-Extra HDMI output
+In de komende jaren zullen menselijke- en
+kunstmatige creativiteit veel meer in elkaar
+overlopen. AI-systemen zijn in staat om
+scenario’s te verzinnen waar we zelf niet
+makkelijk opkomen. AI-systemen doen
+suggesties, geven nieuwe invalshoeken en
+perspectieven. Generatieve AI-systemen
+zijn oneindige ideeënmachines.
+De ontwikkeling die wordt onderschat, is
+met name de snelheid. Ten eerste van de
+ontwikkelingen in het algemeen. AI-systemen schrijven ongelooflijk goed computercodes en dat zijn de bouwstenen van
+de digitale wereld. AI-agents zijn in staat
+om samen te werken en autonoom steeds
+complexere vraagstukken op te lossen.
+Veel van het kenniswerk dat we doen wordt
+overgenomen door autonome systemen.
+De positieve maatschappelijke veranderingen van AI zitten met name in de wetenschappelijke ontdekkingen. Door creatieve
 
-Advanced cooling solution
+machines en systemen die hypotheses
+creëren en toetsen, komen er grotere sprongen in de wetenschap. We zijn nog maar
+kort verwijderd van het moment dat AI-systemen de volgende generatie AI-systemen
+gaan bouwen.
+De grootste misvatting die bedrijven hebben
+over generatieve AI is dat het beperkt blijft
+tot ChatGPT of Copilot. Of dat het een tijdelijke hype is die straks alweer voorbij is.
+De vaardigheden die essentieel worden
+voor ontwikkelaars en ontwerpers in een
+door AI gedreven industrie zijn de juiste
+vragen kunnen stellen, kunnen verwoorden
+wat een eindresultaat moet zijn. Context
+kunnen geven en duiding. Je morele oordeel
+kunnen aanvoelen en verwoorden. Een
+mindstate omarmen waarin je continu een
+beginner bent. Andere mensen overtuigen
+en in beweging brengen.
+Het advies dat ik zou willen geven aan
 
-A cost-effective solution for data-centers,
-IT departments or remote machines!
-Availableatatthe
-themain
-mainRaspberry
-Raspberry Pi resellers
-Available
-resellers
+bedrijven die toekomstbestendig willen zijn,
+is ten eerste verdiep je in de huidige AI-mogelijkheden. Maak mensen in de organisatie vrij om ermee aan de slag te gaan. Dit is
+niet zomaar een ontwikkeling, het maakt
+een wezenlijk verschil. Laat mensen onderzoeken wat de kansen en de mogelijkheden zijn. Geef medewerkers ruimte om
+te experimenteren. Probeer in een vroeg
+stadium te formuleren welke negatieve
+consequenties deze technologie op de
+werkvloer kan hebben. Zoals toename van
+werkdruk, uitholling van het werk en zingeving. Of de afname van deskundigheid.
+Jarno Duursma is keynote spreker tijdens
+WoTS 2026. Bezoekers kunnen zich kosteloos
+registreren voor deze beurs via de website [1].
+260470-03
 
-Manage your
-servers or PCs
-remotely!
+WEBLINKS
+[1] WoTS 2026: https://fhi.nl/wots/
+
+18 september/oktober 2026 www.elektormagazine.nl
+
+Partner Content
 
 
